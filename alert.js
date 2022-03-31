@@ -1,1 +1,1 @@
-alert('Schell')
+alert('Schell');
